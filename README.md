@@ -3,3 +3,4 @@
  - **Aggression_Detecton_Bi_LSTM_and_HerBERT.ipynb** - A notebook with Bi-LSTM and HerBERT-large experiments
  - **dedicated_dictionary.xlsx** - dedicated dictionary containing words leading to aggressive utterances with their respective categories
  - **hf-dataset_v2.pkl** - serialized dataset with annotations
+ - **DATA ANALYSIS + ANNOTATION GUIDELINES.pdf** - data analysis and annotation guidelines
